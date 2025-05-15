@@ -2,7 +2,7 @@
 This project is a professional business landing page built with React and Tailwind CSS. Designed for high conversion rates and responsive on all devices, it can be used for [niche/industry: e.g. SaaS companies, marketing agencies, fitness coaches, etc.].
 
 🚀 Live Demo
-🔗 https://your-vercel-url.vercel.app/
+🔗 https://hedermurari.vercel.app/
 
 ✨ Features
 Modern and responsive design
